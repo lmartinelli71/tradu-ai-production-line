@@ -11,7 +11,11 @@ Developed and operated by Leonardo Martinelli.
 
 ## 📚 Technical Documentation
 
+
+Detailed internal design, reliability model, and scaling strategy:
+
 - 📄 [Architecture Deep Dive](docs/architecture.md)
+
 
 ---
 

@@ -9,6 +9,12 @@ Developed and operated by Leonardo Martinelli.
 
 ---
 
+## 📚 Technical Documentation
+
+- 📄 [Architecture Deep Dive](docs/architecture.md)
+
+---
+
 ## 🧠 Concept: A Digital Production Line
 
 Tradu is not a simple translation service.

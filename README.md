@@ -5,7 +5,8 @@ digital production line for large-scale multilingual document processing.
 
 It applies industrial-style pipeline principles to AI-powered language processing.
 
-Developed and operated by Leonardo Martinelli.
+Developed and operated by Leonardo Martinelli.  
+Designed for high-throughput, fault-tolerant, and auditable AI processing in real-world production environments.
 
 ---
 
@@ -38,6 +39,26 @@ state management, and recovery mechanisms — similar to an industrial productio
 - Automated recovery  
 - Full traceability  
 - End-to-end observability  
+
+---
+
+## 📜 Project Evolution
+
+- **Phase 1 — Streamlit Monolith (2021–2022)**  
+  Research prototype and proof-of-concept.
+
+- **Phase 2 — Containerized Platform (2023)**  
+  First separation of services and frontend-backend decoupling.
+
+- **Phase 3 — Distributed System (2024)**  
+  Introduction of workers, queues, and orchestration.
+
+- **Phase 4 — Production Line Platform (2025–Present)**  
+  Fully observable and fault-tolerant architecture.
+
+> This evolution reflects continuous architectural refactoring driven by
+> scalability, reliability, and production constraints.
+
 
 ---
 

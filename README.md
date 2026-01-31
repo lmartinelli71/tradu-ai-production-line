@@ -15,7 +15,8 @@ Developed and operated by Leonardo Martinelli.
 Detailed internal design, reliability model, and scaling strategy:
 
 - 📄 [Architecture Deep Dive](docs/architecture.md)
-
+- 🛡️ [Reliability & Fault Tolerance](docs/reliability.md)
+- 📈 [Scalability & Capacity Engineering](docs/scaling.md)
 
 ---
 

@@ -17,7 +17,9 @@ Detailed internal design, reliability model, and scaling strategy:
 - 📄 [Architecture Deep Dive](docs/architecture.md)
 - 🛡️ [Reliability & Fault Tolerance](docs/reliability.md)
 - 📈 [Scalability & Capacity Engineering](docs/scaling.md)
-
+- ⚙️ [Operational Model](docs/operational_model.md)
+- 🔐 [Security Model](docs/security.md)
+  
 ---
 
 ## 🧠 Concept: A Digital Production Line

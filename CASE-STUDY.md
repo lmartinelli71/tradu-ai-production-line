@@ -58,8 +58,7 @@ principles.
 It highlights the separation of concerns, fault-tolerant coordination,
 and observability layers.
 
-![Tradu Architecture Overview](images/tradu_architecture.png)
-
+![Tradu Architecture Overview](docs/images/tradu_architecture.png)
 
 
 ---

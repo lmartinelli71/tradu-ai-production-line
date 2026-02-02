@@ -112,7 +112,7 @@ components while maintaining consistency and auditability.
 
 > (Insert trace visualization below)
 
-![Block Execution Trace](docs/images/block-trace.png)
+![Block Execution Trace](docs/images/block_trace.png)
 
 ---
 

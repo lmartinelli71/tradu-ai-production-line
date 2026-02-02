@@ -140,6 +140,22 @@ These watchdogs automatically detect and recover:
 - Stalled executions
 - Network partitions
 
+---
+
+### 📡 Instance Heartbeat Monitoring
+
+Each service instance periodically reports its liveness status to the central
+coordination database.
+
+This enables real-time detection of crashed, stalled, or orphaned processes.
+
+![Service instance heartbeats](docs/images/instances.png)
+
+The heartbeat registry supports automatic cleanup, recovery workflows,
+and forensic post-incident analysis.
+
+---
+
 ### Retry & Escalation Policy
 
 Each block maintains explicit retry counters and failure metadata.

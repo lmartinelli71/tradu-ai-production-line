@@ -55,7 +55,10 @@ versioned interfaces.
 The system follows Hexagonal Architecture and Domain-Driven Design
 principles.
 
-![Tradu Architecture Overview](images/tradu_architecture.jpeg)
+It highlights the separation of concerns, fault-tolerant coordination,
+and observability layers.
+
+![Tradu Architecture Overview](images/tradu_architecture.png)
 
 
 

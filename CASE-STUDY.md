@@ -55,6 +55,10 @@ versioned interfaces.
 The system follows Hexagonal Architecture and Domain-Driven Design
 principles.
 
+![Tradu Architecture Overview](images/tradu_architecture.jpeg)
+
+
+
 ---
 
 ## Processing Model

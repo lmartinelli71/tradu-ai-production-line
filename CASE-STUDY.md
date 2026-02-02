@@ -110,7 +110,7 @@ structured logs.
 It demonstrates how a single block traverses multiple independent
 components while maintaining consistency and auditability.
 
-> (Insert trace visualization below)
+
 
 ![Block Execution Trace](docs/images/block_trace.png)
 

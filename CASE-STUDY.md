@@ -1,4 +1,4 @@
-# 🚀 Case Study — Tradu: Distributed AI Document Processing Platform
+#  Case Study — Tradu: Distributed AI Document Processing Platform
 
 ## Overview
 

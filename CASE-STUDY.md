@@ -62,6 +62,25 @@ and observability layers.
 
 
 ---
+🔹 API & Integration Layer
+
+Tradu exposes a versioned, authenticated REST API that acts as the primary interface for ingestion, orchestration, and retrieval.
+
+The API is organized around domain boundaries and supports:
+- Authentication & token management
+- Dataset ingestion & preprocessing
+- Block retrieval & pagination
+- Distributed translation workflows
+- Execution cancellation
+- Result export
+
+📡 API Endpoint Overview
+
+The API layer enforces explicit contracts and enables seamless integration with external systems, automation pipelines, and internal services.
+All endpoints are designed to be idempotent and traceable through correlation identifiers.
+
+
+---
 
 ## Processing Model
 

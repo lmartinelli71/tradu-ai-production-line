@@ -62,7 +62,7 @@ and observability layers.
 
 
 ---
-🔹 API & Integration Layer
+## API & Integration Layer
 
 Tradu exposes a versioned, authenticated REST API that acts as the primary interface for ingestion, orchestration, and retrieval.
 

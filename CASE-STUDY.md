@@ -107,7 +107,7 @@ This enables full reconstruction of execution paths across services.
 
 📊 Structured Log Event Example
 
-<img src="docs/images/log.png" alt="Structured log example" style="display:block; max-width:100%; margin: 20px auto;">
+<img src="docs/images/log.png" alt="Structured log example" style="display:block; max-width:100%; margin: 10px auto 6px;">
 Each log entry includes contextual metadata enabling cross-service correlation,
 performance analysis, and forensic debugging.
 

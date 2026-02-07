@@ -15,6 +15,7 @@ Designed for high-throughput, fault-tolerant, and auditable AI processing in rea
 
 Detailed internal design, reliability model, and scaling strategy:
 
+- 📘 [Case Study — Distributed AI Processing Platform (Tradu)](/case_study.md)
 - 📄 [Architecture Deep Dive](docs/architecture.md)
 - 🛡️ [Reliability & Fault Tolerance](docs/reliability.md)
 - 📈 [Scalability & Capacity Engineering](docs/scaling.md)

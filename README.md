@@ -50,6 +50,7 @@ state management, and recovery mechanisms — similar to an industrial productio
 
 - **Phase 2 — Containerized Platform (2023)**  
   First separation of services and frontend-backend decoupling.
+  The system was packaged and published as a Docker image to enable reproducible execution.
 
 - **Phase 3 — Distributed System (2024)**  
   Introduction of workers, queues, and orchestration.
